@@ -1,10 +1,8 @@
 {
-  "category": "PSYCHIC_PHENOMENA",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/near-death-experiences",
     "maintainers": [
       {
@@ -18,424 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "near-death-experiences",
     "name": "Near-Death Experiences",
-    "aliases": [
-      {
-        "name": "NDE",
-        "meaning": "Abbreviation"
-      },
-      {
-        "name": "Near-Death Experience",
-        "meaning": "Singular form"
-      }
-    ],
-    "category": "PSYCHIC_PHENOMENA",
-    "subcategory": "Consciousness",
+    "aliases": [],
+    "category": "PSYCHIC_PHENOMENA_/_CONSCIOUSNESS",
+    "subcategory": "Altered state",
     "tags": [
-      "consciousness",
-      "near-death",
-      "afterlife",
-      "out-of-body",
-      "tunnel",
-      "light",
-      "transformative",
-      "research",
-      "medical"
+      "folklore",
+      "mythology"
     ],
     "status": "documented",
     "description": {
-      "summary": "Profound psychological events experienced during clinical death or near-death states, characterized by common elements including tunnels, white light, deceased relatives, life review, and out-of-body sensations.",
-      "full": "Near-Death Experiences (NDEs) are profound psychological events that occur during clinical death or close brushes with death. First systematically studied and named by Raymond Moody in 1975, NDEs are characterized by common elements across cultures: moving through a tunnel, encountering a brilliant white light, meeting deceased relatives or spiritual beings, experiencing a comprehensive life review, feeling profound peace and unconditional love, and having out-of-body experiences. Experiencers often report temporal distortion, ineffability (difficulty describing the experience), and profound life transformation following the event. Research by investigators including Pim van Lommel, Sam Parnia, and Bruce Greyson has documented thousands of cases. Theories range from spiritual explanations (evidence of afterlife/soul) to neurological explanations (DMT release, oxygen deprivation, temporal lobe stimulation, REM intrusion). Scientific studies like the AWARE study and van Lommel's Dutch study have attempted to investigate NDEs rigorously. Cultural interpretations vary, with religious and spiritual frameworks shaping how the experience is understood. NDEs are related to out-of-body experiences and remain a subject of intense scientific and philosophical interest in consciousness studies."
+      "summary": "Near-Death Experiences (NDEs) are profound psychological events that occur during clinical death or close brushes with death.",
+      "full": "Near-Death Experiences (NDEs) are profound psychological events that occur during clinical death or close brushes with death. First systematically studied and named by Raymond Moody in 1975, NDEs are characterized by common elements across cultures: moving through a tunnel, encountering a brilliant white light, meeting deceased relatives or spiritual beings, experiencing a comprehensive life review, feeling profound peace and unconditional love, and having out-of-body experiences. Experiencers often report temporal distortion, ineffability (difficulty describing the experience), and profound life transformation following the event. Research by investigators including Pim van Lommel, Sam Parnia, and Bruce Greyson has documented thousands of cases. Theories range from spiritual explanations (evidence of afterlife/soul) to neurological explanations (DMT release, oxygen deprivation, temporal lobe stimulation, REM intrusion). Scientific studies like the AWARE study and van Lommel's Dutch study have attempted to investigate NDEs rigorously."
     },
     "etymology": {
-      "origin": "Term coined by Raymond Moody in his 1975 book 'Life After Life'",
-      "meaning": "Experience occurring near the point of death",
-      "first_use": "1975"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "PSYCHIC_PHENOMENA",
-      "type": "Consciousness",
-      "subtype": "Altered state",
-      "variant": "Death-related"
+      "category": "PSYCHIC_PHENOMENA_/_CONSCIOUSNESS",
+      "type": "Altered state",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "out-of-body-experiences",
-        "name": "Out-of-Body Experiences",
-        "relationship": "overlapping",
-        "description": "OBEs are common component of NDEs"
-      },
-      {
-        "id": "consciousness-studies",
-        "name": "Consciousness Studies",
-        "relationship": "field",
-        "description": "Academic study of consciousness and altered states"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "common_elements": [
-      {
-        "element": "Tunnel experience",
-        "description": "Moving through a dark tunnel or void toward light",
-        "frequency": "very common"
-      },
-      {
-        "element": "White light",
-        "description": "Brilliant, warm, loving white or golden light",
-        "frequency": "very common"
-      },
-      {
-        "element": "Deceased relatives",
-        "description": "Encounters with deceased loved ones or spiritual beings",
-        "frequency": "common"
-      },
-      {
-        "element": "Life review",
-        "description": "Panoramic review of one's entire life",
-        "frequency": "common"
-      },
-      {
-        "element": "Out-of-body experience",
-        "description": "Viewing one's body and surroundings from outside",
-        "frequency": "very common"
-      },
-      {
-        "element": "Profound peace",
-        "description": "Overwhelming sense of peace, love, and acceptance",
-        "frequency": "very common"
-      },
-      {
-        "element": "Boundary or barrier",
-        "description": "Point of no return that experiencer cannot or chooses not to cross",
-        "frequency": "common"
-      },
-      {
-        "element": "Return to body",
-        "description": "Decision or compulsion to return to physical life",
-        "frequency": "always (in survivors)"
-      }
-    ],
-    "characteristics": [
-      {
-        "characteristic": "Temporal distortion",
-        "description": "Time seems slowed, stopped, or meaningless",
-        "frequency": "very common"
-      },
-      {
-        "characteristic": "Ineffability",
-        "description": "Difficulty putting experience into words",
-        "frequency": "very common"
-      },
-      {
-        "characteristic": "Profound transformation",
-        "description": "Life-changing effects on beliefs, values, and behavior",
-        "frequency": "very common"
-      },
-      {
-        "characteristic": "Loss of fear of death",
-        "description": "Experiencers report reduced or eliminated death anxiety",
-        "frequency": "very common"
-      }
-    ],
-    "context": {
-      "typical_triggers": [
-        "Cardiac arrest",
-        "Severe trauma",
-        "Major surgery",
-        "Drowning",
-        "Childbirth complications",
-        "Severe illness",
-        "Combat injuries"
-      ],
-      "conscious_state": "Clinical death or unconsciousness (typically)",
-      "duration": "Seconds to minutes (physical time); timeless (experienced time)"
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Universal human phenomenon reported across all cultures",
-      "continents": ["Global"],
-      "countries": ["Worldwide"],
-      "regions": ["Universal"]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "demographics": {
-      "age_groups": "All ages, including children",
-      "cultural_distribution": "All cultures report similar core elements",
-      "prevalence": "Estimated 4-15% of people who survive cardiac arrest report NDEs"
-    },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Ancient",
+        "date": "Unknown",
         "circa": true,
-        "source": "Historical texts and religious accounts across cultures"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1975-present",
-          "description": "Modern scientific study era following Moody's work"
-        }
-      ]
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Universal human experience documented across cultures and time periods",
-      "earliest_accounts": "Ancient religious texts, Plato's Republic (Er's account), medieval visions",
-      "folklore_connections": "Connected to religious visions, afterlife beliefs, soul journey narratives"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Ancient",
-        "event": "Historical NDE accounts",
-        "significance": "NDEs documented in ancient texts including Plato, Tibetan Book of the Dead, religious visions",
-        "source": "Historical texts"
-      },
-      {
-        "date": "1892",
-        "event": "Albert Heim's collection",
-        "significance": "Swiss geologist documents accounts from climbers' near-death falls",
-        "source": "Academic paper"
-      },
-      {
-        "date": "1975",
-        "event": "Raymond Moody coins 'NDE'",
-        "significance": "Publication of 'Life After Life' systematizes study and popularizes phenomenon",
-        "source": "Life After Life book"
-      },
-      {
-        "date": "1998",
-        "event": "IANDS founded",
-        "significance": "International Association for Near-Death Studies established",
-        "source": "Organization founding"
-      },
-      {
-        "date": "2001",
-        "event": "Pim van Lommel Dutch study",
-        "significance": "Prospective study of cardiac arrest patients published in The Lancet",
-        "source": "The Lancet medical journal"
-      },
-      {
-        "date": "2008-2012",
-        "event": "AWARE study",
-        "significance": "Sam Parnia's large-scale study of cardiac arrest and awareness",
-        "source": "Academic research"
-      },
-      {
-        "date": "1980s-present",
-        "event": "Ongoing research",
-        "significance": "Continued scientific investigation by Greyson, Parnia, and others",
-        "source": "Scientific journals"
-      }
-    ],
-    "modern_era": "NDEs are studied using rigorous scientific methodology. Research focuses on prospective studies of cardiac arrest patients, neurological correlates, and consistency of reports across cultures."
+    "timeline": []
   },
-
-  "research": {
-    "researchers": [
-      {
-        "name": "Raymond Moody",
-        "affiliation": "Independent researcher",
-        "contribution": "Coined term 'NDE'; systematized study in Life After Life (1975)",
-        "period": "1975-present"
-      },
-      {
-        "name": "Pim van Lommel",
-        "affiliation": "Cardiologist",
-        "contribution": "Prospective study of cardiac arrest patients; published in The Lancet",
-        "period": "2001-present"
-      },
-      {
-        "name": "Sam Parnia",
-        "affiliation": "NYU Langone Health",
-        "contribution": "AWARE study; large-scale cardiac arrest research",
-        "period": "2000s-present"
-      },
-      {
-        "name": "Bruce Greyson",
-        "affiliation": "University of Virginia",
-        "contribution": "Developed Greyson NDE Scale; extensive research",
-        "period": "1980s-present"
-      },
-      {
-        "name": "Kenneth Ring",
-        "affiliation": "University of Connecticut",
-        "contribution": "Major NDE researcher; co-founded IANDS",
-        "period": "1980s-present"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "International Association for Near-Death Studies (IANDS)",
-        "url": "https://iands.org",
-        "focus": "Research, education, and support"
-      },
-      {
-        "name": "Division of Perceptual Studies (University of Virginia)",
-        "focus": "Scientific study of consciousness and NDEs"
-      }
-    ],
-    "key_studies": [
-      {
-        "study": "Dutch Study (van Lommel et al.)",
-        "year": "2001",
-        "journal": "The Lancet",
-        "significance": "Prospective study of 344 cardiac arrest patients; 18% reported NDEs",
-        "findings": "NDEs occurred during documented unconsciousness; transformative effects"
-      },
-      {
-        "study": "AWARE (Awareness during Resuscitation)",
-        "year": "2008-2012",
-        "lead": "Sam Parnia",
-        "significance": "Multi-center study of cardiac arrest and consciousness",
-        "findings": "Documented awareness during cardiac arrest; ongoing research"
-      }
-    ]
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-
   "evidence": {
-    "documented_cases": {
-      "total": 10000,
-      "description": "Thousands of documented accounts across cultures and time periods",
-      "consistency": "High degree of consistency in core elements across cultures"
-    },
-    "veridical_perception": [
-      {
-        "description": "Cases where experiencers report accurate details from out-of-body perspective",
-        "status": "documented but disputed",
-        "examples": "Pam Reynolds case, van Lommel cases",
-        "analysis": "Some verified accurate observations during documented unconsciousness; debated"
-      }
-    ],
-    "scientific_studies": [
-      {
-        "type": "Prospective cardiac arrest studies",
-        "status": "ongoing",
-        "findings": "NDEs occur during documented clinical death; common elements; transformative effects"
-      },
-      {
-        "type": "Cross-cultural studies",
-        "status": "documented",
-        "findings": "Core elements consistent across cultures with cultural variations in interpretation"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "spiritual": [
-      {
-        "name": "Afterlife Evidence",
-        "description": "NDEs provide evidence of soul/consciousness surviving death",
-        "proponents": ["Some NDE researchers", "Religious/spiritual communities"],
-        "evidence_cited": ["Consistency across cases", "Veridical perception", "Transformative effects", "Out-of-body accuracy"]
-      },
-      {
-        "name": "Soul Journey",
-        "description": "Experience represents actual journey of soul/consciousness",
-        "proponents": ["Religious/spiritual interpretations"],
-        "evidence_cited": ["Religious texts", "Cross-cultural similarities", "Experiencer conviction"]
-      }
-    ],
-    "neurological": [
-      {
-        "name": "DMT Release",
-        "description": "Brain releases DMT (dimethyltryptamine) at death, creating experience",
-        "proponents": ["Rick Strassman", "Some neuroscientists"],
-        "evidence_cited": ["DMT produces similar experiences", "Endogenous DMT in pineal gland"]
-      },
-      {
-        "name": "Oxygen Deprivation (Hypoxia)",
-        "description": "Lack of oxygen to brain creates hallucinations",
-        "proponents": ["Some skeptical researchers"],
-        "evidence_cited": ["Hypoxia can cause visions"]
-      },
-      {
-        "name": "Temporal Lobe Stimulation",
-        "description": "Electrical activity in temporal lobe creates experience",
-        "proponents": ["Some neuroscientists"],
-        "evidence_cited": ["TLE patients report similar experiences", "Brain stimulation can produce OBEs"]
-      },
-      {
-        "name": "REM Intrusion",
-        "description": "REM sleep state intrudes into waking consciousness during crisis",
-        "proponents": ["Kevin Nelson"],
-        "evidence_cited": ["REM-like features in NDEs", "Sleep paralysis similarities"]
-      }
-    ],
-    "psychological": [
-      {
-        "name": "Dissociation/Coping Mechanism",
-        "description": "Psychological defense against trauma of dying",
-        "proponents": ["Some psychologists"],
-        "evidence_cited": ["Dissociation in trauma", "Peaceful nature of experience"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
-    "religious_interpretations": {
-      "christianity": "Visions of heaven, Jesus, angels; journey to God",
-      "buddhism": "Bardo states, karma review, reincarnation preparation",
-      "hinduism": "Atman journey, karma review, yamadutas (death messengers)",
-      "islam": "Angels, judgment, paradise glimpses",
-      "indigenous": "Ancestor spirits, shamanic journey elements",
-      "secular": "Consciousness phenomenon, brain chemistry"
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
-    "cultural_variations": {
-      "core_elements": "Tunnel, light, peace, OBE, life review are universal",
-      "cultural_details": "Specific beings, settings, interpretations vary by culture",
-      "children": "Children's NDEs simpler but contain same core elements"
-    },
-    "impact": {
-      "individual": "Profound life transformation, reduced death fear, increased spirituality",
-      "societal": "Influence on attitudes toward death, consciousness, afterlife",
-      "medical": "Increased interest in end-of-life consciousness, resuscitation ethics"
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "moody-1975",
-      "type": "book",
-      "title": "Life After Life",
-      "authors": ["Raymond Moody"],
-      "publication": "Mockingbird Books",
-      "date": "1975",
-      "isbn": "978-0062517395"
-    },
-    {
-      "id": "van-lommel-2001",
-      "type": "journal",
-      "title": "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands",
-      "authors": ["Pim van Lommel", "Ruud van Wees", "Vincent Meyers", "Ingrid Elfferich"],
-      "publication": "The Lancet",
-      "date": "2001",
-      "volume": "358",
-      "pages": "2039-2045"
-    },
-    {
-      "id": "greyson-2010",
-      "type": "journal",
-      "title": "Implications of Near-Death Experiences for a Postmaterialist Psychology",
-      "authors": ["Bruce Greyson"],
-      "publication": "Psychology of Religion and Spirituality",
-      "date": "2010"
-    },
-    {
-      "id": "parnia-aware",
-      "type": "study",
-      "title": "AWARE (AWAreness during REsuscitation) Study",
-      "authors": ["Sam Parnia et al."],
-      "date": "2008-2014"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
