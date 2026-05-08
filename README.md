@@ -1,365 +1,208 @@
 # Near-Death Experiences
 
-> *"At the threshold between life and death, a mystery of consciousness."*
+> Profound personal experiences associated with death or impending death, often reported by survivors of cardiac arrest and other life-threatening events. Common features include out-of-body sensations, passage through a tunnel, encounters with light and deceased relatives, and life review.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Cases](https://img.shields.io/badge/documented-10000+-orange)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `near-death-experiences` |
-| **Category** | PSYCHIC_PHENOMENA / CONSCIOUSNESS |
-| **Classification** | Consciousness / Altered state |
-| **First Systematically Studied** | 1975 (Raymond Moody) |
-| **Primary Region** | Universal (worldwide phenomenon) |
-| **Status** | Documented / Under Scientific Study |
+| **Category** | PSYCHIC_PHENOMENA |
+| **Subcategory** | Altered state of consciousness around clinical death |
+| **First recorded** | 1892 |
+| **Primary range** | NDEs are reported worldwide and cross-culturally, with documented research in North America, Europe, and Asia |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Near-Death Experiences (NDEs) are profound psychological events that occur during clinical death or close brushes with death. First systematically studied and named by Raymond Moody in 1975, NDEs are characterized by common elements across cultures: moving through a tunnel, encountering a brilliant white light, meeting deceased relatives or spiritual beings, experiencing a comprehensive life review, feeling profound peace and unconditional love, and having out-of-body experiences.
-
-Experiencers often report temporal distortion, ineffability (difficulty describing the experience), and profound life transformation following the event. Research by investigators including Pim van Lommel, Sam Parnia, and Bruce Greyson has documented thousands of cases.
-
-Theories range from spiritual explanations (evidence of afterlife/soul) to neurological explanations (DMT release, oxygen deprivation, temporal lobe stimulation, REM intrusion). Scientific studies like the AWARE study and van Lommel's Dutch study have attempted to investigate NDEs rigorously.
+A Near-Death Experience (NDE) is a profound personal experience associated with death or impending death, typically occurring during reversible clinical death (most often cardiac arrest), severe trauma, or other life-threatening medical crises. Common features include detachment from the body, out-of-body experience (OBE), a sense of passage through a tunnel or darkness, encounter with a brilliant light, panoramic life review, meetings with deceased relatives or 'beings of light', feelings of peace and warmth, and sensations of levitation. The phenomenon was systematically described and named in 1975 by physician and philosopher Raymond Moody in his bestseller Life After Life, which identified fifteen recurring elements; earlier scholarly work includes Albert Heim's 1892 clinical observations of mountaineers' near-death experiences and Celia Green's 1968 analysis of out-of-body experience accounts. Major modern researchers include Bruce Greyson (whose 1983 Greyson NDE Scale is widely used), Kenneth Ring (1980 five-stage model), Pim van Lommel (whose 2001 prospective study of 344 cardiac-arrest survivors in The Lancet is among the most-cited works in the field), and Sam Parnia (lead investigator of the AWARE study, 2008–2012, of 2,060 cardiac-arrest events across 15 medical centres in the UK, Austria, and the United States). Estimates of prevalence range from roughly 10–20% of patients approaching death and 17% of critically ill patients. Proposed scientific explanations include cerebral hypoxia/anoxia, REM intrusion, temporal-parietal junction dysfunction, ketamine- and DMT-related neurochemistry, and dissociative responses to extreme stress; cultural framing (e.g. Christian angels, Hindu messengers of Yama) varies more than the underlying core features.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| NDE | English | Near-Death Experience |
+| Recalled Experience of Death (RED) | English | 2022 terminology proposed by NDE researchers for rigorous distinction |
 
-### Primary Name
-- **Near-Death Experience (NDE)** — Term coined by Raymond Moody in his 1975 book *Life After Life*, referring to experiences occurring near the point of death.
+## Etymology
 
----
-
-## Classification
-
-### Taxonomy
-```
-Category: PSYCHIC_PHENOMENA / CONSCIOUSNESS
-├── Type: Consciousness
-├── Subtype: Altered state
-└── Variant: Death-related
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Out-of-Body Experiences](/out-of-body-experiences) | Overlapping | OBEs are common component of NDEs |
-| Consciousness Studies | Field | Academic study of consciousness and altered states |
+- **Origin**: The term 'near-death experience' was popularized by Raymond Moody in his 1975 book Life After Life.
+- **Meaning**: Literally an experience occurring at or near the point of death.
+- **First use**: 1975 (in Moody's Life After Life). Earlier clinical descriptions appear in Albert Heim's 1892 work.
 
 ---
+## Related Phenomena
 
-## Common Elements
-
-### Core NDE Components
-
-| Element | Description | Frequency |
-|---------|-------------|-----------|
-| **Tunnel experience** | Moving through a dark tunnel or void toward light | Very Common |
-| **White light** | Brilliant, warm, loving white or golden light | Very Common |
-| **Deceased relatives** | Encounters with deceased loved ones or spiritual beings | Common |
-| **Life review** | Panoramic review of one's entire life | Common |
-| **Out-of-body experience** | Viewing one's body and surroundings from outside | Very Common |
-| **Profound peace** | Overwhelming sense of peace, love, and acceptance | Very Common |
-| **Boundary or barrier** | Point of no return that cannot or should not be crossed | Common |
-| **Return to body** | Decision or compulsion to return to physical life | Always (in survivors) |
-
-### Characteristics
-
-| Characteristic | Description | Frequency |
-|----------------|-------------|-----------|
-| Temporal distortion | Time seems slowed, stopped, or meaningless | Very Common |
-| Ineffability | Difficulty putting experience into words | Very Common |
-| Profound transformation | Life-changing effects on beliefs, values, behavior | Very Common |
-| Loss of fear of death | Experiencers report reduced/eliminated death anxiety | Very Common |
+- [Out-of-Body Experience (OBE)](../out-of-body-experience/) — _subset_: A common element of NDEs, but also occurring outside near-death contexts
+- [Deathbed visions](../deathbed-vision/) — _similar_: Visions reported by dying patients in their final hours
+- [Shared Death Experience](../shared-death-experience/) — _related_: NDE-like experiences reported by people present at another person's death
 
 ---
+## Physical Description
 
-## Typical Context
+- **Morphology**: Subjective phenomenology rather than physical morphology. Modern guidelines (2022) identify 51 common elements distinguishing authentic NDEs from related phenomena.
 
-### Triggers
-- Cardiac arrest (most studied)
-- Severe trauma
-- Major surgery
-- Drowning
-- Childbirth complications
-- Severe illness
-- Combat injuries
+### Features
 
-### Conditions
-- **Conscious State**: Clinical death or unconsciousness (typically)
-- **Duration**: Seconds to minutes (physical time); experienced as timeless
-- **Prevalence**: Estimated **4-15% of cardiac arrest survivors** report NDEs
+| Feature | Description | Frequency |
+|---|---|---|
+| Detachment from the body | Subjective sense of being separate from one's physical body | common |
+| Out-of-body experience | Perception of viewing oneself and surroundings from a vantage point outside the body, sometimes including reportedly verifiable observations | common |
+| Tunnel passage | Sensation of moving through a tunnel or dark space toward a light | common |
+| Encounter with a brilliant light | Perception of an intense, often loving, light | common |
+| Life review | Panoramic, often non-linear review of one's life events | common |
+| Encounter with deceased relatives or 'beings of light' | Meeting deceased family members or perceived spiritual beings | common |
+| Feelings of peace, warmth, and serenity | Profound emotional states reported as central to the experience | common |
+| Sensation of levitation | Feeling of floating or rising | occasional |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: variable
 
 ---
+## Distribution
 
+NDEs are reported worldwide and cross-culturally, with documented research in North America, Europe, and Asia.
+
+
+---
 ## Historical Timeline
 
-### Origins
-
-Universal human experience documented across cultures and time periods, including ancient religious texts and historical accounts.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Ancient | Historical NDE accounts | Documented in Plato, Tibetan Book of the Dead, religious visions |
-| 1892 | Albert Heim's collection | Swiss geologist documents near-death experiences from climbers |
-| **1975** | **Raymond Moody coins 'NDE'** | *Life After Life* systematizes study and popularizes phenomenon |
-| 1998 | IANDS founded | International Association for Near-Death Studies established |
-| **2001** | **Pim van Lommel Dutch study** | Prospective study published in *The Lancet* |
-| 2008-2012 | AWARE study | Sam Parnia's large-scale study of cardiac arrest |
-| 1980s-present | Ongoing research | Continued scientific investigation |
+|---|---|---|
+| 1892 | Albert Heim publishes the first clinical study of near-death experiences, drawn from accounts of survivors of falls in the Alps | Earliest formal clinical study of the phenomenon |
+| 1968 | Celia Green analyzes 400 out-of-body experience accounts | Foundational empirical study of OBEs, a core NDE feature |
+| 1975 | Raymond Moody publishes Life After Life, identifying fifteen recurring NDE elements and coining the modern term | Founding text of the modern field |
+| 1980 | Kenneth Ring publishes Life at Death, proposing a five-stage continuum model for NDEs | Influential typology of the experience |
+| 1983 | Bruce Greyson publishes the Greyson NDE Scale | Standardised diagnostic instrument that remains in wide use |
+| 2001-12-15 | Pim van Lommel and colleagues publish a prospective study of 344 cardiac-arrest survivors across 10 Dutch hospitals in The Lancet | Among the most-cited prospective studies of NDEs |
+| 2014 | Sam Parnia and colleagues publish results of the AWARE study (2008–2012) of 2,060 cardiac-arrest events at 15 medical centres | Largest prospective multi-centre study of NDEs to date |
+| 2022 | Multidisciplinary panel proposes 'Recalled Experience of Death' (RED) terminology and identifies 51 common elements | Effort to standardise rigorous diagnostic criteria |
+
+---
+## Notable Sightings
+
+### van Lommel et al. (2001), The Lancet — prospective NDE study ⭐
+> **Date**: 2001-12-15  
+> **Location**: Ten Dutch hospitals (consortium led by Pim van Lommel)  
+> **Witnesses**: 344 (Cardiac-arrest survivors)  
+> **Evidence**: Peer-reviewed publication in The Lancet  
+A prospective study of 344 cardiac-arrest survivors at ten Dutch hospitals comparing patients who reported NDEs against those who did not. The study reported that one patient accurately recalled details of resuscitation events from an out-of-body perspective, and follow-ups documented lasting personality and worldview changes among NDE experiencers.
+**Credibility**: high — One of the most influential prospective NDE studies; some methodological details have been debated, but the publication itself is well-documented.
+**Sources**: van Lommel, P. et al. (2001), The Lancet 358:2039–2045
 
 ---
 
-## Scientific Research
+### AWARE study (Parnia et al., 2014) — multi-centre prospective study ⭐
+> **Date**: 2014-10-01  
+> **Location**: 15 medical centres in the UK, Austria, and the United States  
+> **Witnesses**: 101 (Cardiac-arrest survivors who completed questionnaires)  
+> **Evidence**: Peer-reviewed publication in Resuscitation  
+From 2008 to 2012, the AWARE study reviewed 2,060 cardiac-arrest events. Of 140 survivors, 101 completed questionnaires, of whom approximately 9% reported experiences classifiable as NDEs; two patients were reported to have demonstrated verifiable visual or auditory awareness during cardiac arrest. The study attempted to test out-of-body claims using hidden visual targets in resuscitation areas, with negative results for the targets themselves.
+**Credibility**: high — Confirmed that NDEs are reported by a measurable minority of survivors but did not validate the hidden-target test of OBE.
+**Sources**: Parnia, S. et al. (2014), AWARE study results, Resuscitation
 
-### Key Researchers
+---
 
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| **Raymond Moody** | Independent | Coined term 'NDE'; *Life After Life* (1975) |
-| **Pim van Lommel** | Cardiologist | Prospective study in *The Lancet* (2001) |
-| **Sam Parnia** | NYU Langone Health | AWARE study; cardiac arrest research |
-| **Bruce Greyson** | University of Virginia | Developed Greyson NDE Scale; extensive research |
-| **Kenneth Ring** | University of Connecticut | Major researcher; co-founded IANDS |
 
-### Major Studies
+## Evidence
 
-#### Dutch Study (van Lommel et al., 2001)
-- **Published**: *The Lancet*
-- **Design**: Prospective study of 344 cardiac arrest patients
-- **Findings**: 
-  - 18% reported NDEs
-  - NDEs occurred during documented unconsciousness
-  - Transformative long-term effects
-  - Challenges conventional neuroscience explanations
+### Documentary
 
-#### AWARE Study (2008-2012)
-- **Lead**: Sam Parnia
-- **Design**: Multi-center study of cardiac arrest and consciousness
-- **Findings**:
-  - Documented awareness during cardiac arrest
-  - Some veridical perceptions reported
-  - Ongoing research continues
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Greyson NDE Scale | 1983 | 16-item validated questionnaire for assessing the depth and content of NDEs, developed by psychiatrist Bruce Greyson in 1983. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Survival of consciousness** _(Pim van Lommel, Bruce Greyson (cautious openness), Raymond Moody)_
+
+Hypothesis that NDEs evidence the survival of consciousness independent of brain activity, and represent a glimpse of an afterlife or non-material reality.
+
+### Scientific
+
+**Cerebral hypoxia and anoxia** _(Mainstream neurology)_
+
+NDE features are produced by acute reduction of cerebral oxygen during cardiac arrest or other crises, generating tunnel vision, light perception, and altered consciousness.
+
+**Neurochemical models (endorphins, ketamine, DMT)** _(Karl Jansen, Rick Strassman)_
+
+NDE phenomenology is plausibly mediated by endogenous opioids, ketamine-like NMDA antagonism, and/or DMT-like serotonergic effects released under extreme stress.
+
+**Temporal-parietal junction dysfunction** _(Olaf Blanke and colleagues)_
+
+Disruption of the temporal-parietal junction can produce out-of-body sensations, suggesting a neurological substrate for NDE OBEs.
+
+**REM intrusion** _(Kevin Nelson)_
+
+NDE features may arise from intrusion of REM-state phenomena into waking consciousness near death.
+
+### Skeptical
+
+**Confabulation and expectancy effects** _(Susan Blackmore)_
+
+Many reported NDEs may be partially or wholly confabulated under stress, shaped by cultural expectation and reinforced by retelling.
+
+**Critique of Greyson Scale specificity** _(Various NDE methodologists)_
+
+Modern scholars argue the Greyson NDE Scale's vague terminology (e.g. 'unearthly place', 'mystical feelings') admits false positives, conflating authentic NDEs with other anomalous experiences.
+
+
+## Popular Culture
+
+**Literature**: Life After Life — Raymond Moody (1975); Life at Death — Kenneth Ring (1980); Consciousness Beyond Life — Pim van Lommel (2010); Erasing Death — Sam Parnia (2013); After — Bruce Greyson (2021)
+
+**Film / TV**: Flatliners (1990; remake 2017); Heaven Is for Real (2014)
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Albert Heim | ETH Zurich (geology) | First clinical study of NDEs (1892) | 1892 |
+| Raymond Moody | Independent (philosophy/medicine) | Identified 15 foundational NDE elements; coined the modern term | 1975–present |
+| Kenneth Ring | University of Connecticut (psychology) | Developed the five-stage continuum model | 1980–present |
+| Bruce Greyson | University of Virginia (psychiatry) | Greyson NDE Scale (1983) and decades of clinical research | 1980s–present |
+| Pim van Lommel | Rijnstate Hospital (cardiology) | Prospective study of 344 cardiac-arrest survivors in The Lancet (2001) | 1980s–present |
+| Sam Parnia | NYU Langone (resuscitation medicine) | Lead investigator of the AWARE and AWARE II studies | 2008–present |
+| Susan Blackmore | Visiting Professor, University of Plymouth (psychology) | Skeptical neuropsychological framework | 1980s–present |
 
 ### Organizations
 
-- **[International Association for Near-Death Studies (IANDS)](https://iands.org)** — Research, education, and support
-- **Division of Perceptual Studies (University of Virginia)** — Scientific study of consciousness and NDEs
+- [International Association for Near-Death Studies (IANDS)](https://iands.org) — Research, support, and education on NDEs
+- [Division of Perceptual Studies, University of Virginia](https://med.virginia.edu/perceptual-studies/) — Academic research on NDEs and related phenomena
+- [Near-Death Experience Research Foundation (NDERF)](https://www.nderf.org) — Online database of self-reported NDEs
+
+Active areas include the AWARE II prospective cardiac-arrest study, neurobiological investigations of NDE correlates, and ongoing methodological refinement (RED criteria, 2022).
 
 ---
+## Sources
 
-## Evidence & Documentation
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Documented Cases
-- **10,000+** documented accounts across cultures and time periods
-- **High consistency** in core elements across cultures
-- **Cross-cultural** verification of common patterns
 
-### Veridical Perception
+## How to Report a Sighting
 
-**Definition**: Accurate observations during documented unconsciousness from out-of-body perspective
-
-**Status**: Documented but disputed
-
-**Notable Cases**:
-- **Pam Reynolds** (1991): Reported accurate details during documented brain inactivity
-- **van Lommel cases**: Patients described resuscitation details while clinically dead
-
-**Analysis**: Some verified accurate observations; debated whether explainable by conventional means
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Theories & Explanations
-
-### Spiritual/Afterlife Theories
-
-1. **Afterlife Evidence**
-   NDEs provide evidence of soul/consciousness surviving death.
-   - **Evidence cited**: Consistency across cases, veridical perception, transformative effects
-   - **Proponents**: Some NDE researchers, religious/spiritual communities
-
-2. **Soul Journey**
-   Experience represents actual journey of consciousness beyond the body.
-   - **Evidence cited**: Religious texts, cross-cultural similarities, experiencer conviction
-
-### Neurological Theories
-
-1. **DMT Release** (Rick Strassman)
-   Brain releases DMT (dimethyltryptamine) at death, creating experience.
-   - **Evidence cited**: DMT produces similar experiences; endogenous DMT in brain
-   - **Problem**: Not definitively proven DMT released at death
-
-2. **Oxygen Deprivation (Hypoxia)**
-   Lack of oxygen creates hallucinations.
-   - **Evidence cited**: Hypoxia can cause visions
-   - **Problem**: NDEs occur with normal oxygen levels; features don't match hypoxia
-
-3. **Temporal Lobe Stimulation**
-   Electrical activity in temporal lobe creates experience.
-   - **Evidence cited**: Brain stimulation can produce some OBE-like experiences
-   - **Problem**: Doesn't explain full NDE complexity or consistency
-
-4. **REM Intrusion** (Kevin Nelson)
-   REM sleep state intrudes into waking consciousness during crisis.
-   - **Evidence cited**: REM-like features, sleep paralysis similarities
-   - **Problem**: NDEs occur during documented brain inactivity
-
-### Psychological Theories
-
-1. **Dissociation/Coping Mechanism**
-   Psychological defense against trauma of dying.
-   - **Evidence cited**: Dissociation in trauma; peaceful nature
-   - **Problem**: Doesn't explain veridical perception or consistent elements
-
----
-
-## Cultural & Religious Interpretations
-
-### Religious Frameworks
-
-| Tradition | Interpretation |
-|-----------|---------------|
-| **Christianity** | Visions of heaven, Jesus, angels; journey to God |
-| **Buddhism** | Bardo states, karma review, reincarnation preparation |
-| **Hinduism** | Atman journey, karma review, yamadutas (death messengers) |
-| **Islam** | Angels, judgment, paradise glimpses |
-| **Indigenous** | Ancestor spirits, shamanic journey elements |
-| **Secular** | Consciousness phenomenon, brain chemistry |
-
-### Cultural Patterns
-
-**Universal Core Elements**:
-- Tunnel, light, peace, out-of-body, life review appear across all cultures
-
-**Cultural Variations**:
-- **Specific beings**: Christians see Jesus/angels; Hindus see yamadutas; secular experiencers see "beings of light"
-- **Settings**: Culturally influenced (Western gardens vs. Eastern temples)
-- **Interpretations**: Shaped by religious/cultural background
-
-**Children's NDEs**:
-- Simpler than adults but contain same core elements
-- Less culturally influenced
-
----
-
-## Transformative Effects
-
-### Common Life Changes
-
-- **Reduced fear of death** (nearly universal)
-- **Increased spirituality** (very common)
-- **Greater compassion and love** (very common)
-- **Reduced materialism** (common)
-- **Enhanced sense of purpose** (common)
-- **Psychic experiences** (some report increased intuition)
-
-### Challenges
-
-- Difficulty reintegrating into normal life
-- Relationship changes
-- Career changes (often toward helping professions)
-- Some experience depression when returning to physical life
-
----
-
-## Controversies & Debates
-
-### Scientific Debates
-
-**Pro-Survival Arguments**:
-- Consciousness reported during documented brain inactivity
-- Veridical perceptions while unconscious
-- Universal cross-cultural elements
-- Transformative, consistent effects
-
-**Materialist Arguments**:
-- All experiences ultimately brain-based
-- Various neurological explanations possible
-- No definitive proof of consciousness beyond brain
-- Lack of truly verified veridical perception under controlled conditions
-
-### Current Status
-
-**Scientific consensus**: 
-- NDEs are real, documented experiences
-- Profound transformative effects are real
-- Neurological correlates exist
-- **Debate continues** on whether consciousness can exist independently of brain
-
----
-
-## Medical & Ethical Implications
-
-### Resuscitation Ethics
-- How long to continue resuscitation efforts?
-- Patient autonomy in end-of-life care
-- Understanding that "death" may not be immediate
-
-### End-of-Life Care
-- Greater attention to consciousness during dying process
-- Improved compassionate care
-- Recognition of awareness during "unconsciousness"
-
----
-
-## How to Report an NDE
-
-If you've had a near-death experience:
-
-1. **IANDS**: [Report to International Association for Near-Death Studies](https://iands.org)
-2. **Research**: Participate in ongoing scientific studies
-3. **Support**: IANDS offers support groups for experiencers
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/near-death-experiences/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-
-- Moody, R. (1975). *Life After Life*. Mockingbird Books.
-- van Lommel, P. et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*.
-- Greyson, B. (2010). "Implications of Near-Death Experiences for a Postmaterialist Psychology."
-- Parnia, S. AWARE Study (2008-2014).
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Experience](https://iands.org) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
